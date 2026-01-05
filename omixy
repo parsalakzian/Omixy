@@ -10,4 +10,5 @@ vless://d86d7e91-903e-4a4a-8ce9-9569ecd3d835@f.svnmobile.com:443?security=realit
 vless://d86d7e91-903e-4a4a-8ce9-9569ecd3d835@web.yasharmobile.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#OMIXY5
 vless://d86d7e91-903e-4a4a-8ce9-9569ecd3d835@uk.svnmobile.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#OMIXY6
 vless://3331847f-f08e-4626-bd87-3c7727a722fc@ukdir.team-pluss.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=bd88787bcdbc6395#OMIXY7
-vless://cf455a81-7ef0-479f-9ee0-f5e8d49fa8c6@83.217.9.225:8880?path=%2F&security=none&encryption=none&type=ws#OMIXY8
+vless://3331847f-f08e-4626-bd87-3c7727a722fc@ddir.team-pluss.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=49471179d2a8c88a#OMIXY8
+
